@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+*.ipynb_checkpoints/
+.env
+docker/
